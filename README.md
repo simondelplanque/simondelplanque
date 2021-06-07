@@ -20,7 +20,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
 
-## 💻 Mes réseaux 💻
+## 👻 Mes réseaux 👻
 
 [Mon Linkedin](https://fr.linkedin.com/)
 
