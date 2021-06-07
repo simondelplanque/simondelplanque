@@ -1,6 +1,6 @@
 # Simon Delplanque
 
-📞 06.69.17.42.99 
+📞 06.00.17.42.99 
 
 🖨 simon.delplanque@outlook.fr
 
@@ -25,6 +25,14 @@
 [Mon Linkedin](https://fr.linkedin.com/)
 
 [Mon Github](https://github.com/simondelplanque)
+
+## 🎮 Mes jeux 🎮
+
+* Final Fantasy 14
+* World of Warcraft
+* Pokemon
+* Overwatch
+
 
 ![Psyko](https://github.com/simondelplanque/simondelplanque/blob/main/OptimisticHalfCygnet-size_restricted.gif)
 
